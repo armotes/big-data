@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../API/.idea/API.iml" filepath="$PROJECT_DIR$/../API/.idea/API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BigData.iml" filepath="$PROJECT_DIR$/.idea/BigData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../alien/.idea/alien.iml" filepath="$PROJECT_DIR$/../alien/.idea/alien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonBase/.idea/pythonBase.iml" filepath="$PROJECT_DIR$/../pythonBase/.idea/pythonBase.iml" />
+    </modules>
+  </component>
+</project>
